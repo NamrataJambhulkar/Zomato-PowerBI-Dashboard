@@ -1,6 +1,13 @@
-# Zomato Restaurant Sales Dashboard (Power BI)
+# Zomato Data Analysis Project (Power BI)
 
 This project is a Power BI dashboard built using sample data from a fictional restaurant business inspired by Zomato. It analyzes restaurant performance, customer behavior, and order trends through interactive visuals and insights.
+
+---
+
+## 📊 Tools Used
+
+- Power BI (DAX, Power Query)
+- Excel (for data preprocessing)
 
 ---
 
@@ -24,7 +31,9 @@ All data is sample and created for practice:
 - `menu.xlsx` — Menu items  
 - `food.xlsx` — Food categories  
 
-> 📁 To explore data, view `File/` folder.
+> 📁 To explore data, view `Files/` folder.
+> 📁 To explore Dashboard, view `ZomatoDashBoard/` folder.
+> 📁 To explore Dashboard Screenshots, view `Dashboard Screenshots/` folder.
 
 ## 🔍 Key Insights
 
@@ -36,3 +45,6 @@ All data is sample and created for practice:
 ## 📌 Note
 
 This project uses **sample data** for educational and portfolio purposes.
+
+## Author
+Namrata Jambhulkar
